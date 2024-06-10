@@ -1,5 +1,5 @@
 const int sensorPin = A0; //there is something wrong with the sensor value temperature sensor is not working as it should....
-const float baselineTemp = 70.0;
+const float baselineTemp = 25.0;
 
 void setup() {
   // put your setup code here, to run once:
